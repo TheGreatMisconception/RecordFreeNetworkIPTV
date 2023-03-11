@@ -1,0 +1,11 @@
+{
+  "log": true,
+  "Streams": "https://iptv-org.github.io/api/streams.json",
+  "EPG": "https://iptv-org.github.io/epg/guides/de/magentatv.at.json",
+  "Movies": {
+    "Monk": true,
+    "Harry Potter": false,
+    "LordOfTheRings": true,
+    "Nobody Home": true
+  }
+}
