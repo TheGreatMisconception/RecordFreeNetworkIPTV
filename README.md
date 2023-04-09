@@ -1,6 +1,6 @@
 # DownloadTV
 
-IMPORTANT: This tool does __**not**__ not work in its current state. 
+IMPORTANT: This tool does __**not**__ not work in its current state. I'm still looking for a TV-Porgram-Guide API. if you know any, please let my know, by opening a issue!
 
 A tool that i use myself to record various freetv shows via a onlinelivestream. This software may not work for all streams, since the implementations vary a lot.
 
@@ -42,9 +42,19 @@ This is a list of all working and tested streams as of 01/2023
 
 Maybe i can but i probably wont. I wrote this tool for myself. Others may use this tool **without any warranty**. If you want your stream to work, fork this repository and create a pull request, I'd be very happy to approve it.
 
+## How to install
+
+1. Clone repository
+    git clone https://github.com/thegreatmisconception/RecordFreeNetworkIPTV
+
+2. Install PIP-requirements
+    pip install -r requirements.txt
+
+
 ## How to contribute
 
 Fork, Code, Pull-request, Approve. **Everyone can learn to code**, but not everybody wants to :)
+
 
 ## License
 
