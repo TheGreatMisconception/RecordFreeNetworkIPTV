@@ -1,8 +1,8 @@
 # DownloadTV
 
-IMPORTANT: This tool does __**not**__ not work in its current state. I'm still looking for a TV-Porgram-Guide API. if you know any, please let my know, by opening a issue!
+IMPORTANT: This tool does __**not**__ not work in its current state. I'm still looking for a TV-Porgram-Guide API. if you know any, please let my know, by opening an issue!
 
-A tool that i use myself to record various freetv shows via a onlinelivestream. This software may not work for all streams, since the implementations vary a lot.
+A tool that i (want to) use myself to record various freeTV shows via an onlinelivestream. This software may not work for all streams, since the implementations vary a lot.
 
 ## How should my config look like?
 
@@ -11,7 +11,7 @@ currently only json guides from IPTv.Org are supported. I may add support for xm
 
 ## Movies
 
-You just need the exact name of the Movie / Show. The Config does not need to be written case sensitive.
+You just need the exact name of the Movie / TV-Show. The Config does not need to be written case sensitive.
 
 
 Example Config:
@@ -49,12 +49,6 @@ Maybe i can but i probably wont. I wrote this tool for myself. Others may use th
 
 2. Install PIP-requirements
     pip install -r requirements.txt
-
-
-## How to contribute
-
-Fork, Code, Pull-request, Approve. **Everyone can learn to code**, but not everybody wants to :)
-
 
 ## License
 
